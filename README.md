@@ -1,7 +1,7 @@
 # EstacaoMeteorologica-ESP32-MQTT
 Um pequeno projeto utilizando um ESP32 com o protocolo MQTT para monitoramento local de temperatura, umidade e luminosidade.
 
-<img width="4000" height="3000" alt="IMG_20260525_174238077" src="https://github.com/user-attachments/assets/7e807c02-545b-4175-96d7-0c596b4af714" />
+<img width="1000" height="500" alt="IMG_20260525_174238077" src="https://github.com/user-attachments/assets/7e807c02-545b-4175-96d7-0c596b4af714" />
 
 ## Descrição detalhada
 O projeto consiste de uma pequena estação de monitoramento wireless para coletar dados do ambiente, e então envia-los para um dashboard feito com o node-red, através de tópicos MQTT.
