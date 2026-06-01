@@ -25,10 +25,10 @@ Para reproduzir esse projeto você irá precisar de:
 - Node-red instalado em seu computador, junto com as dependências dele.
 
 ### Pinout
-Componente,Pino no ESP32,Tipo de Sinal / Notas
-OLED SSD1306 (SCL),GPIO 22,I2C Clock
-OLED SSD1306 (SDA),GPIO 21,I2C Data
-Sensor DHT (Dados),GPIO 4,Entrada Digital
-LDR (Sensor de Luz),GPIO 32,Entrada Analógica (ADC)
-Botão Principal,GPIO 14,Entrada Digital (PULL_UP Interno)
-LED Status/MQTT,GPIO 27,Saída Digital
+
+- OLED SSD1306 (SCL),GPIO 22,I2C Clock
+- OLED SSD1306 (SDA),GPIO 21,I2C Data
+- Sensor DHT (Dados),GPIO 4,Entrada Digital
+- LDR (Sensor de Luz),GPIO 32,Entrada Analógica (ADC)
+- Botão Principal,GPIO 14,Entrada Digital (PULL_UP Interno)
+- LED Status/MQTT,GPIO 27,Saída Digital
